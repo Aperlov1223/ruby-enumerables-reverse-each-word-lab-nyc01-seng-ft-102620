@@ -4,4 +4,3 @@ new_array = words.reverse
 end
 new_array
 end
-end
